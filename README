@@ -1,8 +1,6 @@
-This is a simple PERL script that helps embedding resources into the CSS file using [1][data URI] scheme.
+This is a simple PERL script that helps embedding resources into the CSS file using [data URI scheme](http://en.wikipedia.org/wiki/Data_URI_scheme).
 
 USAGE:
 
   embed.pl style.css > style_embedded.css
 
-
-  [1] http://en.wikipedia.org/wiki/Data_URI_scheme
