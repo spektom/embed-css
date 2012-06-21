@@ -1,5 +1,8 @@
 #!/usr/bin/env perl
 
+# The following script replaces all images references by URL() directive with
+# the relevant Data URI string.
+
 use File::Spec;
 use File::Basename;
 use File::MimeInfo;
